@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:keerati/joda-etax.git",
   "author": "keerati <keerati.th@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "libxmljs": "^0.18.7"
+  }
 }
