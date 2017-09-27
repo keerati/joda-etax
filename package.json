@@ -1,0 +1,9 @@
+{
+  "name": "joda-etax",
+  "version": "1.0.0",
+  "description": "E-tax lib in Javascript",
+  "main": "index.js",
+  "repository": "git@github.com:keerati/joda-etax.git",
+  "author": "keerati <keerati.th@gmail.com>",
+  "license": "MIT"
+}
