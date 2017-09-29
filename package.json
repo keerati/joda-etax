@@ -2,11 +2,19 @@
   "name": "joda-etax",
   "version": "1.0.0",
   "description": "E-tax lib in Javascript",
-  "main": "index.js",
+  "main": "./dist/main.js",
   "repository": "git@github.com:keerati/joda-etax.git",
   "author": "keerati <keerati.th@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "libxmljs": "^0.18.7"
+    "libxmljs": "^0.18.7",
+    "@types/libxmljs": "^0.14.30"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "gulp-util": "^3.0.8",
+    "typescript": "^2.5.3",
+    "watchify": "^3.9.0"
   }
 }
